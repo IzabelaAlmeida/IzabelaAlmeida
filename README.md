@@ -2,4 +2,4 @@
 
 
 - 💻 Bootcamp: Desenvolvedora Web Java Jr | Full Stack 
-- 🌱 Inicio desta jornada na programação: Janeiro/2022
+- 🌱 Inicio desta jornada na programação: Nov/2021
