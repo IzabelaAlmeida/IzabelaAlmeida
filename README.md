@@ -2,4 +2,4 @@
 
 
 - 💻 Bootcamp: Desenvolvedora Web Java Jr | Full Stack na Generation Brasil
-- 🌱 Inicio desta jornada na programação: Nov/2021
+- 🌱 Inicio desta jornada na programação: Janeiro/2021
